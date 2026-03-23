@@ -1,7 +1,6 @@
 # BitStorm
 
-**Category:** Crypto  
-**Source:** krauq  
+**Category:** Crypto   
 **Flag:** `0xfun{L1n34r_4lg3br4_W1th_Z3_1s_Aw3s0m3}`
 
 ## Challenge Summary
