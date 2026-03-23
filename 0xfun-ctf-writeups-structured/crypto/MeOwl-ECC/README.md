@@ -1,7 +1,6 @@
 # MeOwl ECC
 
 **Category:** Crypto  
-**Source:** krauq  
 **Flag:** `0xfun{n0n_c4n0n1c4l_l1f7s_r_c00l}`
 
 ## Challenge Summary
